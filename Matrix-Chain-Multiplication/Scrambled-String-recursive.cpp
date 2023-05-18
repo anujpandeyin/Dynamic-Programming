@@ -29,3 +29,5 @@ int main() {
 		Solve(X, Y) ? cout << "Yes\n" : cout << "No\n";
 	return 0;
 }
+
+// https://www.youtube.com/watch?v=SqA0o-DGmEw
